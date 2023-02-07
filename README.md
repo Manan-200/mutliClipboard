@@ -9,6 +9,6 @@ Type ```py main.py <command>``` in terminal.
 ## Commands
 * ```save``` : saves clipboard data taking a key as an input
 * ```load``` : loads JSON data taking a key as an input
-* ```clear```: clears JSON data
-* ```list```: prints JSON data
-* ```del```: deletes data at the key entered
+* ```clear``` : clears JSON data
+* ```list``` : prints JSON data
+* ```del``` : deletes data at the key entered
